@@ -1,0 +1,8 @@
+Open cmd on this folder
+
+1 heroku login
+2 heroku git:remote -a ubolu221
+3 git add . 
+4 git commit -am "Something here"
+5 git push heroku master 
+++AND DONE :D++
