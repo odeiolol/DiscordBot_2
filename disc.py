@@ -14,4 +14,4 @@ class MyClient(discord.Client):
             await message.channel.send(':coffee:')
 
 client=MyClient()
-client.run('NzYzNzc5MDMyMDE3MjcyODQ0.X38qpw.0fJuwMSI920jaRR0CST4LnQaIEk')
+client.run('NzYzNzc5MDMyMDE3MjcyODQ0.X38qpw._HYFUwH5TqJ-gDnLtet232gSvB0')
